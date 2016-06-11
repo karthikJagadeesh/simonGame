@@ -1,1 +1,3 @@
 # simonGame
+
+A FreeCodeCamp Project 
