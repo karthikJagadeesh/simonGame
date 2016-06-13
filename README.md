@@ -1,3 +1,3 @@
 # simonGame
 
-A FreeCodeCamp Project 
+A simple memory game to feed your grey cells. 
